@@ -1,32 +1,33 @@
-import React from 'react';
 import type { NewsItem } from '../../types';
 
-interface LatestNewsProps {
-  news: NewsItem[];
-}
-
-export const LatestNews: React.FC<LatestNewsProps> = ({ news }) => {
+export function LatestNews({ items }: { items: NewsItem[] }) {
   return (
-    <section className="bg-white border border-gray-200 rounded-md overflow-hidden mb-8 shadow-sm">
-      <div className="bg-gray-100 px-4 py-2 border-b border-gray-200 flex justify-between items-center">
-        <h2 className="text-sm font-bold text-gray-800 uppercase tracking-wide">Latest News</h2>
-        <a href="#" className="text-xs font-bold text-green-700 hover:underline">More News</a>
+    <div className="flex flex-col gap-[5px]">
+      <div className="w-full p-4 bg-white rounded-lg">
+        <h2 className="text-[16px] font-extrabold text-cb-green">LATEST NEWS</h2>
       </div>
 
-      <ul className="divide-y divide-gray-100">
-        {news.map((item) => (
-          <li key={item.id} className="px-4 py-3 hover:bg-gray-50 transition-colors duration-150">
-            <a href={item.href} className="flex flex-col gap-y-1 group">
-              <span className="text-sm font-medium text-gray-800 group-hover:text-green-700 transition-colors duration-150 line-clamp-2">
-                {item.headline}
-              </span>
-              <span className="text-[11px] text-gray-400">
-                {item.timestamp}
-              </span>
-            </a>
-          </li>
+      <div className="rounded-lg overflow-hidden bg-white flex flex-col">
+        {items.map((item) => (
+          <a
+            key={item.id}
+            href={item.href}
+            className="flex flex-col gap-1 p-4 border-b border-cb-border last:border-b-0 hover:bg-neutral-50"
+          >
+            <span className="text-[14px] leading-5">{item.headline}</span>
+            <span className="text-[12px] text-[#737373]">{item.timestamp}</span>
+          </a>
         ))}
-      </ul>
-    </section>
+
+        <div className="p-4 flex justify-center">
+          <a
+            href="#"
+            className="w-fit py-1.5 px-5 bg-cb-green hover:bg-cb-green-hover text-white rounded-sm text-[14px]"
+          >
+            More News
+          </a>
+        </div>
+      </div>
+    </div>
   );
-};
+}

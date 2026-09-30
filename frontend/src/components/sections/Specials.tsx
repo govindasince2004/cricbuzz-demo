@@ -1,38 +1,30 @@
-import React from 'react';
 import type { SpecialItem } from '../../types';
 
-interface SpecialsProps {
-  specials: SpecialItem[];
-}
-
-export const Specials: React.FC<SpecialsProps> = ({ specials }) => {
+export function Specials({ items }: { items: SpecialItem[] }) {
   return (
-    <section className="mb-8">
-      <div className="bg-gray-100 px-4 py-2 border-b border-gray-200 mb-4">
-        <h2 className="text-sm font-bold text-gray-800 uppercase tracking-wide">Specials</h2>
+    <div className="mt-[5px] flex flex-col gap-[5px]">
+      <div className="w-full p-4 bg-white rounded-lg">
+        <h2 className="text-[16px] font-extrabold text-cb-green">SPECIALS</h2>
       </div>
 
-      <div className="grid grid-cols-1 gap-4">
-        {specials.map((special) => (
-          <a key={special.id} href={special.href} className="group flex items-center gap-x-4 p-3 bg-white border border-gray-200 rounded-md hover:shadow-sm transition-all duration-200">
-            <div className="w-20 h-20 overflow-hidden rounded shrink-0">
-              <img
-                src={special.imageUrl}
-                alt={special.headline}
-                className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
-              />
-            </div>
-            <div className="flex flex-col">
-              <h3 className="text-sm font-bold text-gray-800 group-hover:text-green-700 transition-colors duration-150 mb-1">
-                {special.headline}
-              </h3>
-              <p className="text-xs text-gray-500 line-clamp-2">
-                {special.description}
-              </p>
-            </div>
+      <div className="rounded-lg overflow-hidden bg-white flex flex-col">
+        {items.map((item) => (
+          <a
+            key={item.id}
+            href={item.href}
+            className="flex flex-col gap-2 p-4 border-b border-cb-border last:border-b-0 hover:bg-neutral-50"
+          >
+            <img
+              src={item.imageUrl}
+              alt={item.headline}
+              loading="lazy"
+              className="w-full aspect-video object-cover rounded-sm"
+            />
+            <span className="text-[16px] font-bold leading-5">{item.headline}</span>
+            <span className="text-[13px] text-[#555] leading-5">{item.description}</span>
           </a>
         ))}
       </div>
-    </section>
+    </div>
   );
-};
+}

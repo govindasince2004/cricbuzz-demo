@@ -1,32 +1,42 @@
 export interface NavigationItem {
   label: string;
   href: string;
+  hasMenu?: boolean;
 }
 
-export interface MatchFilter {
+export interface MatchStripItem {
   label: string;
-  id: string;
+  href: string;
+  title: string;
+}
+
+export interface TeamScore {
+  name: string;
+  flag: string;
+  score?: string;
 }
 
 export interface MatchCard {
   id: string;
   competition: string;
-  team1: string;
-  team2: string;
-  score1?: string;
-  score2?: string;
-  status: 'live' | 'upcoming' | 'completed';
+  matchType: string;
+  teams: TeamScore[];
+  status: 'live' | 'preview' | 'result';
   statusText: string;
-  links: {
-    forecast?: string;
-    schedule?: string;
-    pointsTable?: string;
-  };
+  links: { label: string; href: string }[];
 }
 
-export interface CompetitionGroup {
+export interface MatchCarouselItem {
+  id: string;
+  kind: 'match' | 'ad';
+  match?: MatchCard;
+  ad?: { headline: string; sub: string; cta: string };
+}
+
+export interface QuickAccessLink {
   label: string;
-  matches: MatchCard[];
+  href: string;
+  icon: string;
 }
 
 export interface NewsItem {
@@ -44,30 +54,25 @@ export interface PhotoItem {
   href: string;
 }
 
-export interface ScheduleItem {
-  id: string;
-  match: string;
-  date: string;
-  time: string;
-  venue: string;
-  href: string;
-}
-
 export interface VideoItem {
   id: string;
   title: string;
-  duration: string;
+  duration?: string;
   thumbnailUrl: string;
   href: string;
 }
 
-export interface StoryItem {
+export interface ArticleItem {
   id: string;
-  category: string;
+  series?: string;
+  eyebrow?: string;
   headline: string;
   summary: string;
   imageUrl: string;
+  seriesImageUrl?: string;
+  relatedLink?: string;
   href: string;
+  variant?: 'series' | 'standard';
 }
 
 export interface SpecialItem {
@@ -78,20 +83,26 @@ export interface SpecialItem {
   href: string;
 }
 
+export interface FooterLink {
+  label: string;
+  href: string;
+  icon?: string;
+}
+
 export interface FooterLinkGroup {
   title: string;
-  links: { label: string; href: string }[];
+  links: FooterLink[];
 }
 
 export interface HomepageData {
   navigation: NavigationItem[];
-  matchFilters: MatchFilter[];
-  competitionGroups: CompetitionGroup[];
+  matchStrip: MatchStripItem[];
+  matchCarousel: MatchCarouselItem[];
+  quickAccess: QuickAccessLink[];
   latestNews: NewsItem[];
   latestPhotos: PhotoItem[];
-  schedule: ScheduleItem[];
   featuredVideos: VideoItem[];
-  topStories: StoryItem[];
+  articles: ArticleItem[];
   specials: SpecialItem[];
   footerGroups: FooterLinkGroup[];
 }
