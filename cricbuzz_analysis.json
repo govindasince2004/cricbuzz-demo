@@ -1,0 +1,829 @@
+{
+  "navigation": [
+    {
+      "label": "Live Scores",
+      "href": "/cricket-match/live-scores"
+    },
+    {
+      "label": "Schedule",
+      "href": "/cricket-schedule/upcoming-series/international"
+    },
+    {
+      "label": "Archives",
+      "href": "/cricket-scorecard-archives"
+    },
+    {
+      "label": "News",
+      "href": "/cricket-news"
+    },
+    {
+      "label": "Series",
+      "href": "/cricket-schedule/series/all"
+    },
+    {
+      "label": "Teams",
+      "href": "/cricket-team"
+    },
+    {
+      "label": "Videos",
+      "href": "/cricket-videos"
+    },
+    {
+      "label": "Rankings",
+      "href": "/cricket-stats/icc-rankings/men/batting"
+    },
+    {
+      "label": "More",
+      "href": "#!"
+    },
+    {
+      "label": "MATCHES",
+      "href": "/cricket-match/live-scores"
+    },
+    {
+      "label": "WIvsIND-IND opt to bowl",
+      "href": "/live-cricket-scores/151543/wi-vs-ind-2nd-odi-west-indies-tour-of-india-2026"
+    },
+    {
+      "label": "AUSAvsINDA-Trail by 302",
+      "href": "/live-cricket-scores/155422/ausa-vs-inda-2nd-unofficial-test-australia-a-tour-of-india-2026"
+    },
+    {
+      "label": "INDWAvsAUSWA-Trail by 205",
+      "href": "/live-cricket-scores/155650/indwa-vs-auswa-only-unofficial-test-australia-a-women-tour-of-india-2026"
+    },
+    {
+      "label": "RSAvsAUS-Preview",
+      "href": "/live-cricket-scores/147909/rsa-vs-aus-3rd-odi-australia-tour-of-south-africa-2026"
+    },
+    {
+      "label": "INDvsSL-Preview",
+      "href": "/live-cricket-scores/171060/ind-vs-sl-2nd-semi-final-asian-games-2026"
+    },
+    {
+      "label": "Asian Games 2026",
+      "href": "/cricket-series/12563/asian-games-2026"
+    },
+    {
+      "label": "Pakistan vs Bangladesh1st Semi-Final",
+      "href": "/live-cricket-scores/171051/pak-vs-ban-1st-semi-final-asian-games-2026"
+    },
+    {
+      "label": "India vs Sri Lanka2nd Semi-Final",
+      "href": "/live-cricket-scores/171060/ind-vs-sl-2nd-semi-final-asian-games-2026"
+    },
+    {
+      "label": "India v West Indies",
+      "href": "/cricket-series/11902/india-v-west-indies"
+    },
+    {
+      "label": "West Indies vs IndiaLIVE2nd ODI",
+      "href": "/live-cricket-scores/151543/wi-vs-ind-2nd-odi-india-v-west-indies"
+    },
+    {
+      "label": "SA v AUS 2026",
+      "href": "/cricket-series/11595/sa-v-aus-2026"
+    },
+    {
+      "label": "South Africa vs Australia3rd ODI",
+      "href": "/live-cricket-scores/147909/rsa-vs-aus-3rd-odi-sa-v-aus-2026"
+    },
+    {
+      "label": "CSA T20 Challenge 2026",
+      "href": "/cricket-series/13180/csa-t20-challenge-2026"
+    },
+    {
+      "label": "South Africa Emerging Players vs KwaZulu-Natal Inland TuskersPool B",
+      "href": "/live-cricket-scores/173127/saep-vs-kznin-pool-b-csa-t20-challenge-2026"
+    },
+    {
+      "label": "Warriors vs LimpopoPool A",
+      "href": "/live-cricket-scores/173133/war-vs-limpo-pool-a-csa-t20-challenge-2026"
+    },
+    {
+      "label": "Knights vs BolandPool B",
+      "href": "/live-cricket-scores/173143/kng-vs-bol-pool-b-csa-t20-challenge-2026"
+    },
+    {
+      "label": "Dolphins vs Northern CapePool A",
+      "href": "/live-cricket-scores/173153/dol-vs-ncape-pool-a-csa-t20-challenge-2026"
+    },
+    {
+      "label": "Eastern Storm vs Mpumalanga RhinosPool B",
+      "href": "/live-cricket-scores/173163/estorm-vs-mpr-pool-b-csa-t20-challenge-2026"
+    },
+    {
+      "label": "Australia A tour of India 2026",
+      "href": "/cricket-series/12184/australia-a-tour-of-india-2026"
+    },
+    {
+      "label": "Australia A vs India ALIVE2nd unofficial Test",
+      "href": "/live-cricket-scores/155422/ausa-vs-inda-2nd-unofficial-test-australia-a-tour-of-india-2026"
+    },
+    {
+      "label": "Australia U19 tour of India 2026",
+      "href": "/cricket-series/12191/australia-u19-tour-of-india-2026"
+    },
+    {
+      "label": "Australia U19 vs India U191st unofficial Test",
+      "href": "/live-cricket-scores/155499/ausu19-vs-indu19-1st-unofficial-test-australia-u19-tour-of-india-2026"
+    },
+    {
+      "label": "Irani Cup 2026",
+      "href": "/cricket-series/12387/irani-cup-2026"
+    },
+    {
+      "label": "Jammu and Kashmir vs Rest of IndiaIrani Cup",
+      "href": "/live-cricket-scores/163077/jk-vs-roi-irani-cup-irani-cup-2026"
+    },
+    {
+      "label": "Australia A Women tour of India 2026",
+      "href": "/cricket-series/12210/australia-a-women-tour-of-india-2026"
+    },
+    {
+      "label": "India A Women vs Australia A WomenLIVEOnly unofficial Test",
+      "href": "/live-cricket-scores/155650/indwa-vs-auswa-only-unofficial-test-australia-a-women-tour-of-india-2026"
+    },
+    {
+      "label": "West Indies Women tour of Zimbabwe, 2026",
+      "href": "/cricket-series/13217/west-indies-women-tour-of-zimbabwe-2026"
+    },
+    {
+      "label": "West Indies Women vs Zimbabwe WomenLIVE3rd ODI",
+      "href": "/live-cricket-scores/173100/wiw-vs-zimw-3rd-odi-west-indies-women-tour-of-zimbabwe-2026"
+    },
+    {
+      "label": "2nd ODI \u2022 West Indies tour of India, 2026ODIWIWI58-1 (6.2)INDINDIndia opt to bowl",
+      "href": "/live-cricket-scores/151543/wi-vs-ind-2nd-odi-west-indies-tour-of-india-2026"
+    },
+    {
+      "label": "Forecast",
+      "href": "/cricket-match-forecast/151543/wi-vs-ind-2nd-odi-west-indies-tour-of-india-2026"
+    },
+    {
+      "label": "Schedule",
+      "href": "/cricket-series/11902/west-indies-tour-of-india-2026/matches"
+    },
+    {
+      "label": "2nd unofficial Test \u2022 Australia A tour of India 2026FCAUSAAUSA358INDAINDA56-2Day 2: 3rd Session - India A trail by 302 runs",
+      "href": "/live-cricket-scores/155422/ausa-vs-inda-2nd-unofficial-test-australia-a-tour-of-india-2026"
+    },
+    {
+      "label": "Schedule",
+      "href": "/cricket-series/12184/australia-a-tour-of-india-2026/matches"
+    },
+    {
+      "label": "Only unofficial Test \u2022 Australia A Women tour of India 2026FCINDWAINDWA364AUSWAAUSWA159-8Day 2: 3rd Session - Australia A Women trail by 205 runs",
+      "href": "/live-cricket-scores/155650/indwa-vs-auswa-only-unofficial-test-australia-a-women-tour-of-india-2026"
+    },
+    {
+      "label": "Schedule",
+      "href": "/cricket-series/12210/australia-a-women-tour-of-india-2026/matches"
+    },
+    {
+      "label": "3rd ODI \u2022 Australia tour of South Africa, 2026ODISouth AfricaSouth AfricaAustraliaAustralia",
+      "href": "/live-cricket-scores/147909/rsa-vs-aus-3rd-odi-australia-tour-of-south-africa-2026"
+    },
+    {
+      "label": "Forecast",
+      "href": "/cricket-match-forecast/147909/rsa-vs-aus-3rd-odi-australia-tour-of-south-africa-2026"
+    },
+    {
+      "label": "Schedule",
+      "href": "/cricket-series/11595/australia-tour-of-south-africa-2026/matches"
+    },
+    {
+      "label": "2nd Semi-Final \u2022 Asian Games 2026T20IIndiaIndiaSri LankaSri Lanka",
+      "href": "/live-cricket-scores/171060/ind-vs-sl-2nd-semi-final-asian-games-2026"
+    },
+    {
+      "label": "Points Table",
+      "href": "/cricket-series/12563/asian-games-2026/points-table"
+    },
+    {
+      "label": "Schedule",
+      "href": "/cricket-series/12563/asian-games-2026/matches"
+    },
+    {
+      "label": "3rd ODI \u2022 West Indies Women tour of Zimbabwe, 2026ODIWIWWIW120-1 (25)ZIMWZIMWZimbabwe Women opt to bowl",
+      "href": "/live-cricket-scores/173100/wiw-vs-zimw-3rd-odi-west-indies-women-tour-of-zimbabwe-2026"
+    },
+    {
+      "label": "Schedule",
+      "href": "/cricket-series/13217/west-indies-women-tour-of-zimbabwe-2026/matches"
+    },
+    {
+      "label": "India hope to shrug off any rain-induced rust in Sri Lanka semifinal2h ago",
+      "href": "/cricket-news/140335/india-hope-to-shrug-off-any-rain-induced-rust-in-sri-lanka-semifinal"
+    },
+    {
+      "label": "Amir Jangoo and the power of patience3h ago",
+      "href": "/cricket-news/140334/amir-jangoo-and-the-power-of-patience"
+    },
+    {
+      "label": "Pakistan, Bangladesh eye Asian Games final after rain-marred quarters4h ago",
+      "href": "/cricket-news/140333/pakistan-bangladesh-eye-asian-games-final-after-rain-marred-quarters"
+    },
+    {
+      "label": "Sophie Molineux to lead full-strength Australia against Bangladesh, NZ7h ago",
+      "href": "/cricket-news/140332/sophie-molineux-to-lead-full-strength-australia-against-bangladesh-nz"
+    },
+    {
+      "label": "LA28 lifeline: USA Cricket opens door to USOPC funding and elite training16h ago",
+      "href": "/cricket-news/140331/la28-lifeline-usa-cricket-opens-door-to-usopc-funding-and-elite-training"
+    },
+    {
+      "label": "Selectors meet in Guwahati; Pragyan Ojha told to take charge16h ago",
+      "href": "/cricket-news/140330/selectors-meet-in-guwahati-pragyan-ojha-told-to-take-charge"
+    },
+    {
+      "label": "Requiem for a dead rubber16h ago",
+      "href": "/cricket-news/140329/requiem-for-a-dead-rubber"
+    },
+    {
+      "label": "India out to resume batting range and frenzy in Guwahati17h ago",
+      "href": "/cricket-news/140328/india-out-to-resume-batting-range-and-frenzy-in-guwahati"
+    },
+    {
+      "label": "Greaves ruled out of second ODI against India due to calf injury17h ago",
+      "href": "/cricket-news/140327/greaves-ruled-out-of-second-odi-against-india-due-to-calf-injury"
+    },
+    {
+      "label": "Explained: Why Mohsin Naqvi's ACC extension is headed nowhere20h ago",
+      "href": "/cricket-news/140326/explained-why-mohsin-naqvis-acc-extension-is-headed-nowhere"
+    },
+    {
+      "label": "More News",
+      "href": "/cricket-news"
+    },
+    {
+      "label": "The defining moments of Ben Stokes' international careerMon, Jun 29, 2026",
+      "href": "/cricket-gallery/6070/the-defining-moments-of-ben-stokes-international-career"
+    },
+    {
+      "label": "Kane Williamson retiresFri, Jun 12, 2026",
+      "href": "/cricket-gallery/6068/kane-williamson-retires"
+    },
+    {
+      "label": "2026 T20 World Cup final - India's celebrationsSun, Mar 8, 2026",
+      "href": "/cricket-gallery/6067/2026-t20-world-cup-final-indias-celebrations"
+    },
+    {
+      "label": "India vs New Zealand, 3rd ODI, IndoreSun, Jan 18, 2026",
+      "href": "/cricket-gallery/6066/india-vs-new-zealand-3rd-odi-indore"
+    },
+    {
+      "label": "India vs New Zealand, 1st ODI, BarodaSun, Jan 11, 2026",
+      "href": "/cricket-gallery/6065/india-vs-new-zealand-1st-odi-baroda"
+    },
+    {
+      "label": "India vs South Africa, 2025 - 2nd ODI, RaipurWed, Dec 3, 2025",
+      "href": "/cricket-gallery/6064/india-vs-south-africa-2025-2nd-odi-raipur"
+    },
+    {
+      "label": "More Photos",
+      "href": "/cricket-photo-gallery"
+    },
+    {
+      "label": "More Matches",
+      "href": "/cricket-schedule/upcoming-series/international"
+    },
+    {
+      "label": "View All",
+      "href": "/cricket-videos"
+    },
+    {
+      "label": "Cricbuzz Live: India vs West Indies, 2nd ODI | Pre-match show",
+      "href": "/cricket-videos/211093/cricbuzz-live-india-vs-west-indies-2nd-odi-pre-match-show"
+    },
+    {
+      "label": "4:24Really want to see Rohit lift the 2027 World Cup: Ajinkya Rahane",
+      "href": "/cricket-videos/210670/really-want-to-see-rohit-lift-the-2027-world-cup-ajinkya-rahane"
+    },
+    {
+      "label": "2:14From a brash youngster to a calm soul - DK decodes Kohli 2.0",
+      "href": "/cricket-videos/211080/from-a-brash-youngster-to-a-calm-soul-dk-decodes-kohli-20"
+    },
+    {
+      "label": "Amir Jangoo and the power of patience",
+      "href": "/cricket-news/140334/amir-jangoo-and-the-power-of-patience"
+    },
+    {
+      "label": "Greaves ruled out of second ODI against India due to calf injury",
+      "href": "/cricket-news/140327/greaves-ruled-out-of-second-odi-against-india-due-to-calf-injury"
+    },
+    {
+      "label": "India out to resume batting range and frenzy in Guwahati",
+      "href": "/cricket-news/140328/india-out-to-resume-batting-range-and-frenzy-in-guwahati"
+    },
+    {
+      "label": "Selectors meet in Guwahati; Pragyan Ojha told to take charge",
+      "href": "/cricket-news/140330/selectors-meet-in-guwahati-pragyan-ojha-told-to-take-charge"
+    },
+    {
+      "label": "Mohit Sharma to join CSK as bowling coach",
+      "href": "/cricket-news/140324/mohit-sharma-to-join-csk-as-bowling-coach"
+    },
+    {
+      "label": "Jamie Overton - Older, wiser and still bowling fast",
+      "href": "/cricket-news/140319/jamie-overton-older-wiser-and-still-bowling-fast"
+    },
+    {
+      "label": "Explained: Why Mohsin Naqvi's ACC extension is headed nowhere",
+      "href": "/cricket-news/140326/explained-why-mohsin-naqvis-acc-extension-is-headed-nowhere"
+    },
+    {
+      "label": "Cricket World Cup 2027 schedule to be unveiled in Cape Town on October 1",
+      "href": "/cricket-news/140317/cricket-world-cup-2027-schedule-to-be-unveiled-in-cape-town-on-october-1"
+    },
+    {
+      "label": "Sophie Molineux to lead full-strength Australia against Bangladesh, NZ",
+      "href": "/cricket-news/140332/sophie-molineux-to-lead-full-strength-australia-against-bangladesh-nz"
+    },
+    {
+      "label": "LA28 lifeline: USA Cricket opens door to USOPC funding and elite training",
+      "href": "/cricket-news/140331/la28-lifeline-usa-cricket-opens-door-to-usopc-funding-and-elite-training"
+    },
+    {
+      "label": "Pakistan, Bangladesh eye Asian Games final after rain-marred quarters",
+      "href": "/cricket-news/140333/pakistan-bangladesh-eye-asian-games-final-after-rain-marred-quarters"
+    },
+    {
+      "label": "Najmul Hossain Shanto ruled out of Asian Games with fever",
+      "href": "/cricket-news/140314/najmul-hossain-shanto-ruled-out-of-asian-games-with-fever"
+    },
+    {
+      "label": "RCB release Grace Harris, Linsey Smith ahead of WPL 2027 Auction",
+      "href": "/cricket-news/140313/rcb-release-grace-harris-linsey-smith-ahead-of-wpl-2027-auction"
+    },
+    {
+      "label": "ICC meet in Bali from November 13-15; McKinsey Strategy report to be tabled",
+      "href": "/cricket-news/140315/icc-meet-in-bali-from-november-13-15-mckinsey-strategy-report-to-be-tabled"
+    },
+    {
+      "label": "'Whatever it takes, I'm absolutely ready': Kohli sets sights on signing off as World Cup champion",
+      "href": "/cricket-news/140297/whatever-it-takes-im-absolutely-ready-kohli-sets-sights-on-signing-off-as-world-cup-champion"
+    },
+    {
+      "label": "Sam Harper leads Australia A's fightback with superb century",
+      "href": "/cricket-news/140325/sam-harper-leads-australia-as-fightback-with-superb-century"
+    },
+    {
+      "label": "Babar, Salt and Gurbaz among 200 players for ILT20 auction",
+      "href": "/cricket-news/140322/babar-salt-and-gurbaz-among-200-players-for-ilt20-auction"
+    },
+    {
+      "label": "Inside Conrad's push to bring Nortje back to the Test fold",
+      "href": "/cricket-news/140323/inside-conrads-push-to-bring-nortje-back-to-the-test-fold"
+    },
+    {
+      "label": "Nortje in line for surprise Test return; Rabada still uncertain",
+      "href": "/cricket-news/140311/nortje-in-line-for-surprise-test-return-rabada-still-uncertain"
+    },
+    {
+      "label": "Requiem for a dead rubber",
+      "href": "/cricket-news/140329/requiem-for-a-dead-rubber"
+    },
+    {
+      "label": "Inside South Africa's fast bowling hamdemic",
+      "href": "/cricket-news/140286/inside-south-africas-fast-bowling-hamdemic"
+    },
+    {
+      "label": "Centuries for Bavuma, Miller, but cricket takes a back seat",
+      "href": "/cricket-news/140304/centuries-for-bavuma-miller-but-cricket-takes-a-back-seat"
+    },
+    {
+      "label": "Injured Ellis ruled out of third ODI against South Africa",
+      "href": "/cricket-news/140321/injured-ellis-ruled-out-of-third-odi-against-south-africa"
+    },
+    {
+      "label": "David Boon named Cricket Australia's Interim Chair",
+      "href": "/cricket-news/140308/david-boon-named-cricket-australias-interim-chair"
+    },
+    {
+      "label": "Zak Crawley to play full BBL season with Perth Scorchers",
+      "href": "/cricket-news/140126/zak-crawley-to-play-full-bbl-season-with-perth-scorchers"
+    },
+    {
+      "label": "Cricbuzz Live: India vs West Indies, 2nd ODI | Pre-match show",
+      "href": "/cricket-videos/211093/cricbuzz-live-india-vs-west-indies-2nd-odi-pre-match-show"
+    },
+    {
+      "label": "4:24Really want to see Rohit lift the 2027 World Cup: Ajinkya Rahane",
+      "href": "/cricket-videos/210670/really-want-to-see-rohit-lift-the-2027-world-cup-ajinkya-rahane"
+    },
+    {
+      "label": "2:14From a brash youngster to a calm soul - DK decodes Kohli 2.0",
+      "href": "/cricket-videos/211080/from-a-brash-youngster-to-a-calm-soul-dk-decodes-kohli-20"
+    },
+    {
+      "label": "More Videos",
+      "href": "/cricket-videos"
+    },
+    {
+      "label": "Auqib Nabi, and the swing transformation that sparked a revolution",
+      "href": "/cricket-news/137888/auqib-nabi-and-the-swing-transformation-that-sparked-a-revolution"
+    },
+    {
+      "label": "Rizwan's curious case: Midnight summons, confiscated phone, and a probe shrouded in questions",
+      "href": "/cricket-news/140287/rizwans-curious-case-midnight-summons-confiscated-phone-and-a-probe-shrouded-in-questions"
+    },
+    {
+      "label": "Varun Aaron: Fast bowling from the other side",
+      "href": "/cricket-news/140187/varun-aaron-fast-bowling-from-the-other-side"
+    },
+    {
+      "label": "Sonal Dinusha: The making of a methodical Sri Lankan gem",
+      "href": "/cricket-news/139989/sonal-dinusha-the-making-of-a-methodical-sri-lankan-gem"
+    },
+    {
+      "label": "When Bangladesh refused to let fear take over in Australia",
+      "href": "/cricket-news/139869/when-bangladesh-refused-to-let-fear-take-over-in-australia"
+    },
+    {
+      "label": "The duality of IPL fielding: Spectacular highlights, shaky basics",
+      "href": "/cricket-news/139818/the-duality-of-ipl-fielding-spectacular-highlights-shaky-basics"
+    },
+    {
+      "label": "Vaibhav Sooryavanshi: The workings of a mind unfazed",
+      "href": "/cricket-news/139651/vaibhav-sooryavanshi-the-workings-of-a-mind-unfazed"
+    },
+    {
+      "label": "Android",
+      "href": "https://play.google.com/store/apps/details?id=com.cricbuzz.android"
+    },
+    {
+      "label": "iOS",
+      "href": "https://itunes.apple.com/app/id360466413"
+    },
+    {
+      "label": "Facebook",
+      "href": "https://www.facebook.com/cricbuzz"
+    },
+    {
+      "label": "Twitter",
+      "href": "https://twitter.com/cricbuzz"
+    },
+    {
+      "label": "Youtube",
+      "href": "https://www.youtube.com/c/cricbuzz"
+    },
+    {
+      "label": "Pinterest",
+      "href": "https://in.pinterest.com/cricbuzz/"
+    },
+    {
+      "label": "Careers",
+      "href": "/careers"
+    },
+    {
+      "label": "Advertise",
+      "href": "/info/advertise"
+    },
+    {
+      "label": "Cricbuzz TV Ads",
+      "href": "/product-blog/cricbuzz-mobile-apps-tv-ad-cricket-ka-keeda"
+    },
+    {
+      "label": "About Us",
+      "href": "/info/about"
+    },
+    {
+      "label": "Privacy Notice",
+      "href": "/info/privacy"
+    },
+    {
+      "label": "Terms of Service",
+      "href": "/info/terms"
+    },
+    {
+      "label": "The Times of India",
+      "href": "https://timesofindia.indiatimes.com/"
+    },
+    {
+      "label": "Navbharat Times",
+      "href": "https://navbharattimes.indiatimes.com/"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/0x0/i1/c776191/west-indies.jpg",
+      "alt": "west-indies",
+      "class": []
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/0x0/i1/c776162/india.jpg",
+      "alt": "india",
+      "class": []
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/0x0/i1/c776204/australia-a.jpg",
+      "alt": "australia-a",
+      "class": []
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/0x0/i1/c776181/india-a.jpg",
+      "alt": "india-a",
+      "class": []
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/0x0/i1/c776184/india-a-women.jpg",
+      "alt": "india-a-women",
+      "class": []
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/0x0/i1/c776209/australia-a-women.jpg",
+      "alt": "australia-a-women",
+      "class": []
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/0x0/i1/c776287/south-africa.jpg",
+      "alt": "south-africa",
+      "class": []
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/0x0/i1/c776202/australia.jpg",
+      "alt": "australia",
+      "class": []
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/0x0/i1/c776162/india.jpg",
+      "alt": "india",
+      "class": []
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/0x0/i1/c776254/sri-lanka.jpg",
+      "alt": "sri-lanka",
+      "class": []
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/0x0/i1/c776194/west-indies-women.jpg",
+      "alt": "west-indies-women",
+      "class": []
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/0x0/i1/c776203/zimbabwe-women.jpg",
+      "alt": "zimbabwe-women",
+      "class": []
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/384x216/i1/c1023459/the-defining-moments-of-ben-stokes-international-career.jpg",
+      "alt": "the-defining-moments-of-ben-stokes-international-career",
+      "class": [
+        "rounded-md",
+        "w-contentListCardImageM",
+        "h-contentListCardImageM"
+      ]
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/384x216/i1/c1005796/kane-williamson-retires.jpg",
+      "alt": "kane-williamson-retires",
+      "class": [
+        "rounded-md",
+        "w-contentListCardImageM",
+        "h-contentListCardImageM"
+      ]
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/384x216/i1/c879257/2026-t20-world-cup-final-indias-celebrations.jpg",
+      "alt": "2026-t20-world-cup-final-indias-celebrations",
+      "class": [
+        "rounded-md",
+        "w-contentListCardImageM",
+        "h-contentListCardImageM"
+      ]
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/384x216/i1/c829459/india-vs-new-zealand-3rd-odi-indore.jpg",
+      "alt": "india-vs-new-zealand-3rd-odi-indore",
+      "class": [
+        "rounded-md",
+        "w-contentListCardImageM",
+        "h-contentListCardImageM"
+      ]
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/384x216/i1/c822456/india-vs-new-zealand-1st-odi-baroda.jpg",
+      "alt": "india-vs-new-zealand-1st-odi-baroda",
+      "class": [
+        "rounded-md",
+        "w-contentListCardImageM",
+        "h-contentListCardImageM"
+      ]
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/384x216/i1/c791826/india-vs-south-africa-2025-2nd-odi-raipur.jpg",
+      "alt": "india-vs-south-africa-2025-2nd-odi-raipur",
+      "class": [
+        "rounded-md",
+        "w-contentListCardImageM",
+        "h-contentListCardImageM"
+      ]
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c1084962/cricbuzz-live-india-vs-west-indies-2nd-odi-pre-match-show.jpg?d=high&p=det",
+      "alt": "cricbuzz-live-india-vs-west-indies-2nd-odi-pre-match-show",
+      "class": [
+        "w-full",
+        "h-auto",
+        "object-cover",
+        "rounded-t-md"
+      ]
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c1082963/really-want-to-see-rohit-lift-the-2027-world-cup-ajinkya-rahane.jpg?d=high&p=det",
+      "alt": "really-want-to-see-rohit-lift-the-2027-world-cup-ajinkya-rahane",
+      "class": [
+        "w-full",
+        "h-auto",
+        "object-cover",
+        "rounded-t-md"
+      ]
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c1084871/from-a-brash-youngster-to-a-calm-soul-dk-decodes-kohli-20.jpg?d=high&p=det",
+      "alt": "from-a-brash-youngster-to-a-calm-soul-dk-decodes-kohli-20",
+      "class": [
+        "w-full",
+        "h-auto",
+        "object-cover",
+        "rounded-t-md"
+      ]
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c1084955/amir-jangoo-and-the-power-of-patience.jpg?d=high&p=det",
+      "alt": "amir-jangoo-and-the-power-of-patience",
+      "class": []
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c1084951/selectors-meet-in-guwahati-pragyan-ojha-told-to-take-charge.jpg?d=high&p=det",
+      "alt": "selectors-meet-in-guwahati-pragyan-ojha-told-to-take-charge",
+      "class": []
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c1084914/mohit-sharma-to-join-csk-as-bowling-coach.jpg?d=high&p=det",
+      "alt": "mohit-sharma-to-join-csk-as-bowling-coach",
+      "class": []
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c1084891/jamie-overton-older-wiser-and-still-bowling-fast.jpg?d=high&p=det",
+      "alt": "jamie-overton-older-wiser-and-still-bowling-fast",
+      "class": []
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c1084928/explained-why-mohsin-naqvis-acc-extension-is-headed-nowhere.jpg?d=high&p=det",
+      "alt": "explained-why-mohsin-naqvis-acc-extension-is-headed-nowhere",
+      "class": []
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c1084889/cricket-world-cup-2027-schedule-to-be-unveiled-in-cape-town-on-october-1.jpg?d=high&p=det",
+      "alt": "cricket-world-cup-2027-schedule-to-be-unveiled-in-cape-town-on-october-1",
+      "class": []
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c1084952/sophie-molineux-to-lead-full-strength-australia-against-bangladesh-nz.jpg?d=high&p=det",
+      "alt": "sophie-molineux-to-lead-full-strength-australia-against-bangladesh-nz",
+      "class": []
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c1084948/la28-lifeline-usa-cricket-opens-door-to-usopc-funding-and-elite-training.jpg?d=high&p=det",
+      "alt": "la28-lifeline-usa-cricket-opens-door-to-usopc-funding-and-elite-training",
+      "class": []
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c1084954/pakistan-bangladesh-eye-asian-games-final-after-rain-marred-quarters.jpg?d=high&p=det",
+      "alt": "pakistan-bangladesh-eye-asian-games-final-after-rain-marred-quarters",
+      "class": []
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c1084883/rcb-release-grace-harris-linsey-smith-ahead-of-wpl-2027-auction.jpg?d=high&p=det",
+      "alt": "rcb-release-grace-harris-linsey-smith-ahead-of-wpl-2027-auction",
+      "class": []
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c1084887/icc-meet-in-bali-from-november-13-15-mckinsey-strategy-report-to-be-tabled.jpg?d=high&p=det",
+      "alt": "icc-meet-in-bali-from-november-13-15-mckinsey-strategy-report-to-be-tabled",
+      "class": []
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c1083047/whatever-it-takes-im-absolutely-ready-kohli-sets-sights-on-signing-off-as-world-cup-champion.jpg?d=high&p=det",
+      "alt": "whatever-it-takes-im-absolutely-ready-kohli-sets-sights-on-signing-off-as-world-cup-champion",
+      "class": []
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c1084927/sam-harper-leads-australia-as-fightback-with-superb-century.jpg?d=high&p=det",
+      "alt": "sam-harper-leads-australia-as-fightback-with-superb-century",
+      "class": []
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c1084901/babar-salt-and-gurbaz-among-200-players-for-ilt20-auction.jpg?d=high&p=det",
+      "alt": "babar-salt-and-gurbaz-among-200-players-for-ilt20-auction",
+      "class": []
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c1084900/inside-conrads-push-to-bring-nortje-back-to-the-test-fold.jpg?d=high&p=det",
+      "alt": "inside-conrads-push-to-bring-nortje-back-to-the-test-fold",
+      "class": []
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c1084947/requiem-for-a-dead-rubber.jpg?d=high&p=det",
+      "alt": "requiem-for-a-dead-rubber",
+      "class": []
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c1084854/david-boon-named-cricket-australias-interim-chair.jpg?d=high&p=det",
+      "alt": "david-boon-named-cricket-australias-interim-chair",
+      "class": []
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c1084899/zak-crawley-to-play-full-bbl-season-with-perth-scorchers.jpg?d=high&p=det",
+      "alt": "zak-crawley-to-play-full-bbl-season-with-perth-scorchers",
+      "class": []
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c1084962/cricbuzz-live-india-vs-west-indies-2nd-odi-pre-match-show.jpg?d=high&p=det",
+      "alt": "cricbuzz-live-india-vs-west-indies-2nd-odi-pre-match-show",
+      "class": [
+        "w-full",
+        "h-auto",
+        "object-cover",
+        "rounded-t-md"
+      ]
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c1082963/really-want-to-see-rohit-lift-the-2027-world-cup-ajinkya-rahane.jpg?d=high&p=det",
+      "alt": "really-want-to-see-rohit-lift-the-2027-world-cup-ajinkya-rahane",
+      "class": [
+        "w-full",
+        "h-auto",
+        "object-cover",
+        "rounded-t-md"
+      ]
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c1084871/from-a-brash-youngster-to-a-calm-soul-dk-decodes-kohli-20.jpg?d=high&p=det",
+      "alt": "from-a-brash-youngster-to-a-calm-soul-dk-decodes-kohli-20",
+      "class": [
+        "w-full",
+        "h-auto",
+        "object-cover",
+        "rounded-t-md"
+      ]
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c872124/auqib-nabi-and-the-swing-transformation-that-sparked-a-revolution.jpg?d=high&p=det",
+      "alt": "auqib-nabi-and-the-swing-transformation-that-sparked-a-revolution",
+      "class": [
+        "rounded-md"
+      ]
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c1082367/rizwans-curious-case-midnight-summons-confiscated-phone-and-a-probe-shrouded-in-questions.jpg?d=high&p=det",
+      "alt": "rizwans-curious-case-midnight-summons-confiscated-phone-and-a-probe-shrouded-in-questions",
+      "class": [
+        "rounded-md"
+      ]
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c1076110/varun-aaron-fast-bowling-from-the-other-side.jpg?d=high&p=det",
+      "alt": "varun-aaron-fast-bowling-from-the-other-side",
+      "class": [
+        "rounded-md"
+      ]
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c1062179/sonal-dinusha-the-making-of-a-methodical-sri-lankan-gem.jpg?d=high&p=det",
+      "alt": "sonal-dinusha-the-making-of-a-methodical-sri-lankan-gem",
+      "class": [
+        "rounded-md"
+      ]
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c1054611/when-bangladesh-refused-to-let-fear-take-over-in-australia.jpg?d=high&p=det",
+      "alt": "when-bangladesh-refused-to-let-fear-take-over-in-australia",
+      "class": [
+        "rounded-md"
+      ]
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c1051096/the-duality-of-ipl-fielding-spectacular-highlights-shaky-basics.jpg?d=high&p=det",
+      "alt": "the-duality-of-ipl-fielding-spectacular-highlights-shaky-basics",
+      "class": [
+        "rounded-md"
+      ]
+    },
+    {
+      "src": "https://static.cricbuzz.com/a/img/v1/i1/c1042357/vaibhav-sooryavanshi-the-workings-of-a-mind-unfazed.jpg?d=high&p=det",
+      "alt": "vaibhav-sooryavanshi-the-workings-of-a-mind-unfazed",
+      "class": [
+        "rounded-md"
+      ]
+    }
+  ],
+  "structure": {
+    "SiteHeader": [],
+    "MatchHub": [],
+    "HomeSections": [],
+    "SiteFooter": []
+  }
+}
